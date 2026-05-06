@@ -169,4 +169,3 @@ python regression_optimization.py
 **Saroar Jahan Shuba**  
 M.S. Computational & Quantitative Methods  
 Lamar University  
-Spring 2026
